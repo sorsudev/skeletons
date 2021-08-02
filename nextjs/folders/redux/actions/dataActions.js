@@ -1,6 +1,4 @@
 import Router from 'next/router';
-const nextStepsList = ['', '', '', '', ''];
-const backStepsList = ['', '', '', ''];
 
 const sample = (currentStep) => {
   return (dispatch) => {

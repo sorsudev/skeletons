@@ -1,7 +1,7 @@
 import authActions from './authActions';
-import sampleAccions from './sampleAccions';
+import dataActions from './dataActions';
 
 export default {
   ...authActions,
-  ...sampleAccions,
+  ...dataActions,
 };
